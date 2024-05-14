@@ -1,7 +1,7 @@
 from groq import Groq
 
 
-client = Groq(api_key='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')
+client = Groq(api_key='clé api ici')
 
 messages=[
     {
